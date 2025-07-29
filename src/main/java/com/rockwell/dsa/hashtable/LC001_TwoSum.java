@@ -1,4 +1,4 @@
-package com.seeyiseeya.dsa.hashtable;
+package com.rockwell.dsa.hashtable;
 
 import java.util.HashMap;
 import java.util.Map;
